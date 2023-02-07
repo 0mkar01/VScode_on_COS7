@@ -3,7 +3,8 @@ Simple python and bash scripts to install Microsoft Visual Studio Code on CentOS
 --> For Python script  
 STEP 1 : Make sure you are logged in as any created super user but not root !  
 STEP 2 : sudo python vscode.py  
---> For Bash script  
-STEP 1 : ./vscode.sh
+--> For Bash script 
+STEP 1 : Make sure you are logged in as any created super user but not root !  
+STEP 2 : ./vscode.sh
 
 
